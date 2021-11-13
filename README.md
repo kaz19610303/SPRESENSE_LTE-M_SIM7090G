@@ -13,3 +13,7 @@ SONY Spresense用 LTE-M Add-on Board です。
  
 * サンプルプログラム
 　[TinyGSM のサンプルプログラム HttpClient.ino](https://qiita.com/kaz19610303/items/cebea26460873812c47c)
+
+ショップ
+　[Next Step オフィシャルショップ](https://nextstep.official.ec/items/53736124)
+ 
